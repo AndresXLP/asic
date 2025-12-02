@@ -72,6 +72,7 @@ class FileKind(str, enum.Enum):
     AFAC = "afac"
     DSPCTTOS = "dspcttos"
     PTB = "PTB"
+    CURT = "curt"
 
     # LDCBMR = "ldcbmr"
     # PUBFC = "pubfc"

@@ -171,4 +171,15 @@ ALL_FILES = {
         "version": "003",
         "agent": None,
     },
+    "curt": {
+        "path": "/RUTA/PUBLICA/DEL/FTP/2025-04/curt0401.TxF",
+        "kind": "curt",
+        "visibility": "public",
+        "year": 2025,
+        "month": 4,
+        "day": 1,
+        "extension": ".txf",
+        "version": "003",
+        "agent": None,
+    },
 }
